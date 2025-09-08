@@ -54,7 +54,7 @@ nav div{
     justify-content: space-between;
 }
 section{
-  background-image: url('imges/hero_1.jpg');
+  background-image: url('hero_1.jpg');
   background-attachment: fixed;
   background-size: cover;
     height:600px;
@@ -207,32 +207,32 @@ color: #9AC1C1;
     overflow: hidden;
 }
 .project .one{
-    background-image: url('imges/img_1.jpg.webp');
+    background-image: url('img_1.jpg.webp');
     background-size:440px 400px;
     background-repeat: no-repeat;
 }
 .project .two{
-    background-image: url('imges/img_2.jpg.webp');
+    background-image: url('img_2.jpg.webp');
     background-size:440px 400px;
     background-repeat: no-repeat;
 }
 .project .three{
-    background-image: url('imges/img_3.jpg.webp');
+    background-image: url('img_3.jpg.webp');
     background-size:440px 400px;
     background-repeat: no-repeat;
 }
 .project .four{
-    background-image: url('imges/img_4.jpg.webp');
+    background-image: url('img_4.jpg.webp');
     background-size:440px 400px;
     background-repeat: no-repeat;
 }
 .project .five{
-    background-image: url('imges/img_5.jpg.webp');
+    background-image: url('img_5.jpg.webp');
     background-size:440px 400px;
     background-repeat: no-repeat;
 }
 .project .six{
-    background-image: url('imges/img_6.jpg.webp');
+    background-image: url('img_6.jpg.webp');
     background-size:440px 400px;
     background-repeat: no-repeat;
 }
@@ -262,7 +262,7 @@ color: #9AC1C1;
     
 }
 .black .About{
- background-image:url('imges/about_1.jpg.webp');
+ background-image:url('about_1.jpg.webp');
  background-size:cover;
  background-repeat: no-repeat;
 }
@@ -411,7 +411,7 @@ font-family: Arial, Helvetica, sans-serif;
     color: aqua;
 }
 .pic{
-    background-image: url('imges/about_1.jpg\ \(1\).webp');
+    background-image: url('about_1.jpg\ \(1\).webp');
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -433,16 +433,16 @@ font-family: Arial, Helvetica, sans-serif;
     
 }
 .ourteam .person{
-    background-image:url('imges/person_2.jpg.webp') ;
+    background-image:url('person_2.jpg.webp') ;
     background-size: cover;
     
 }
 .ourteam .person1{
-    background-image:url('imges/person_3.jpg.webp') ;
+    background-image:url('person_3.jpg.webp') ;
     background-size: cover;
 }
 .ourteam .person2{
-    background-image:url('imges/person_4.jpg.webp') ;
+    background-image:url('person_4.jpg.webp') ;
     background-size: cover;
     
 }
@@ -502,15 +502,15 @@ font-family: Arial, Helvetica, sans-serif;
     
 }
 .blog .img{
-    background-image: url('imges/img_1.jpg.webp');
+    background-image: url('img_1.jpg.webp');
     background-size: cover;
 }
 .blog .img2{
-    background-image: url('imges/img_2.jpg.webp');
+    background-image: url('img_2.jpg.webp');
     background-size: cover;
 }
 .blog .img1{
-    background-image: url('imges/img_3.jpg.webp');
+    background-image: url('img_3.jpg.webp');
     background-size: cover;
 }
 .blog h1{
@@ -606,3 +606,4 @@ table{
     font-size: 40px;
  }
  
+
